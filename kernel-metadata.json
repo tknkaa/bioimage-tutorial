@@ -1,0 +1,19 @@
+{
+  "id": "ryuheitakanaka/bioimage-tutorial",
+  "id_no": 84632028,
+  "title": "bioimage-tutorial",
+  "code_file": "main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "pkdarabi/brain-tumor-image-dataset-semantic-segmentation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
